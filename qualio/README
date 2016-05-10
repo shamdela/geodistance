@@ -1,0 +1,40 @@
+
+PYTHON VERSION
+-----------------------------------------------------------------------------
+Python 3  (Python 3.4.3) was used to develop this program.
+
+Other packages used:  urllib.request, math, os, sys, unittest, json
+
+
+DIRECTORY STRUCTURE:
+-----------------------------------------------------------------------------
+
+qualio
+        README
+        __init__.py
+--------geodistance
+                __init__.py
+----------------geodistance
+                        __init__.py
+                        geodistance.py
+----------------test
+                        __init__.py
+                        test_geodistance.py
+------------------------resources
+                            cities-sample.json
+                            cities-invalid.json
+
+
+
+
+RUNNING TESTS:
+-----------------------------------------------------------------------------
+
+For running the tests, I used the Pycharm IDE and ran them from inside it.
+But they can also be run with 'nosetests'
+
+pip install nosetests
+
+With nosetests, they can be run from inside the qualio/geodistance folder
+when you unzip the package.
+Simply typing 'nosetests' in this folder will execute the test suite.

@@ -1,0 +1,266 @@
+{
+  "portland": {
+    "lat": 45.517,
+    "lon": -122.667,
+    "wikipedia": "Portland,_Oregon",
+    "city": "Portland"
+  },
+  "sanfrancisco": {
+    "lat": 37.767,
+    "lon": -122.417,
+    "wikipedia": "San_Francisco",
+    "city": "San Francisco"
+  },
+  "seattle": {
+    "lat": 47.6,
+    "lon": -122.317,
+    "wikipedia": "Seattle",
+    "city": "Seattle"
+  },
+  "sacramento": {
+    "lat": 38.55,
+    "lon": -121.467,
+    "wikipedia": "Sacramento,_California",
+    "city": "Sacramento"
+  },
+  "losangeles": {
+    "lat": 34.05,
+    "lon": -118.25,
+    "wikipedia": "Los_Angeles",
+    "city": "Los Angeles"
+  },
+  "riverside": {
+    "lat": 33.933,
+    "lon": -117.383,
+    "wikipedia": "Riverside,_California",
+    "city": "Riverside"
+  },
+  "sandiego": {
+    "lat": 32.767,
+    "lon": -117.15,
+    "wikipedia": "San_Diego",
+    "city": "San Diego"
+  },
+  "tijuana": {
+    "lat": 32.517,
+    "lon": -117.033,
+    "wikipedia": "Tijuana",
+    "city": "Tijuana"
+  },
+  "mexicali": {
+    "lat": 32.667,
+    "lon": -115.467,
+    "wikipedia": "Mexicali",
+    "city": "Mexicali"
+  },
+  "lasvegas": {
+    "lat": 36.167,
+    "lon": -115.133,
+    "wikipedia": "Las_Vegas,_Nevada",
+    "city": "Las Vegas"
+  },
+  "yellowknife": {
+    "lat": 62.45,
+    "lon": -114.4,
+    "wikipedia": "Yellowknife",
+    "city": "Yellowknife"
+  },
+  "calgary": {
+    "lat": 51.033,
+    "lon": -114.05,
+    "wikipedia": "Calgary",
+    "city": "Calgary"
+  },
+  "edmonton": {
+    "lat": 53.567,
+    "lon": -113.517,
+    "wikipedia": "Edmonton",
+    "city": "Edmonton"
+  },
+  "phoenix": {
+    "lat": 33.433,
+    "lon": -112.067,
+    "wikipedia": "Phoenix,_Arizona",
+    "city": "Phoenix"
+  },
+  "saltlakecity": {
+    "lat": 40.75,
+    "lon": -111.883,
+    "wikipedia": "Salt_Lake_City",
+    "city": "Salt Lake City"
+  },
+  "tucson": {
+    "lat": 32.2,
+    "lon": -110.917,
+    "wikipedia": "Tucson,_Arizona",
+    "city": "Tucson"
+  },
+  "hangaroa": {
+    "lat": 27.15,
+    "lon": -109.433,
+    "wikipedia": "Hanga_Roa",
+    "city": "Hanga Roa"
+  },
+  "saskatoon": {
+    "lat": 52.117,
+    "lon": -106.65,
+    "wikipedia": "Saskatoon",
+    "city": "Saskatoon"
+  },
+  "albuquerque": {
+    "lat": 35.1,
+    "lon": -106.6,
+    "wikipedia": "Albuquerque,_New_Mexico",
+    "city": "Albuquerque"
+  },
+  "elpaso": {
+    "lat": 31.783,
+    "lon": -106.417,
+    "wikipedia": "El_Paso,_Texas",
+    "city": "El Paso"
+  },
+  "chihuahua": {
+    "lat": 28.1,
+    "lon": -106.0,
+    "wikipedia": "Chihuahua,_Chihuahua",
+    "city": "Chihuahua"
+  },
+  "denver": {
+    "lat": 39.733,
+    "lon": -104.983,
+    "wikipedia": "Denver",
+    "city": "Denver"
+  },
+  "durango": {
+    "lat": 24.017,
+    "lon": -104.667,
+    "wikipedia": "Durango,_Durango",
+    "city": "Durango"
+  },
+  "regina": {
+    "lat": 50.433,
+    "lon": -104.617,
+    "wikipedia": "Regina,_Saskatchewan",
+    "city": "Regina"
+  },
+  "zapopan": {
+    "lat": 20.767,
+    "lon": -103.4,
+    "wikipedia": "Zapopan,_Jalisco",
+    "city": "Zapopan"
+  },
+  "guadalajara": {
+    "lat": 20.667,
+    "lon": -103.35,
+    "wikipedia": "Guadalajara,_Jalisco",
+    "city": "Guadalajara"
+  },
+  "monterrey": {
+    "lat": 25.667,
+    "lon": -100.3,
+    "wikipedia": "Monterrey",
+    "city": "Monterrey"
+  },
+  "mexicocity": {
+    "lat": 19.4,
+    "lon": -99.117,
+    "wikipedia": "Mexico_City",
+    "city": "Mexico City"
+  },
+  "sanantonio": {
+    "lat": 29.533,
+    "lon": -98.467,
+    "wikipedia": "San_Antonio",
+    "city": "San Antonio"
+  },
+  "puebla": {
+    "lat": 19.05,
+    "lon": -98.2,
+    "wikipedia": "Puebla,_Puebla",
+    "city": "Puebla"
+  },
+  "austin": {
+    "lat": 30.267,
+    "lon": -97.767,
+    "wikipedia": "Austin,_Texas",
+    "city": "Austin"
+  },
+  "oklahomacity": {
+    "lat": 35.467,
+    "lon": -97.533,
+    "wikipedia": "Oklahoma_City",
+    "city": "Oklahoma City"
+  },
+  "wichita": {
+    "lat": 37.683,
+    "lon": -97.333,
+    "wikipedia": "Wichita,_Kansas",
+    "city": "Wichita"
+  },
+  "winnipeg": {
+    "lat": 49.9,
+    "lon": -97.133,
+    "wikipedia": "Winnipeg",
+    "city": "Winnipeg"
+  },
+  "dallas": {
+    "lat": 32.767,
+    "lon": -96.8,
+    "wikipedia": "Dallas",
+    "city": "Dallas"
+  },
+  "veracruz": {
+    "lat": 19.183,
+    "lon": -96.133,
+    "wikipedia": "Veracruz,_Veracruz",
+    "city": "Veracruz"
+  },
+  "houston": {
+    "lat": 29.75,
+    "lon": -95.367,
+    "wikipedia": "Houston",
+    "city": "Houston"
+  },
+  "kansascity": {
+    "lat": 39.1,
+    "lon": -94.567,
+    "wikipedia": "Kansas_City,_Missouri",
+    "city": "Kansas City"
+  },
+  "minneapolis": {
+    "lat": 44.967,
+    "lon": -93.25,
+    "wikipedia": "Minneapolis",
+    "city": "Minneapolis"
+  },
+  "quetzaltenango": {
+    "lat": 14.833,
+    "lon": -91.517,
+    "wikipedia": "Quetzaltenango",
+    "city": "Quetzaltenango"
+  },
+  "aberdeen": {
+    "lat": 57.15,
+    "lon": -2.1,
+    "wikipedia": "Aberdeen",
+    "city": "Aberdeen"
+  },
+  "birmingham": {
+    "lat": 52.483,
+    "lon": -1.883,
+    "wikipedia": "Birmingham",
+    "city": "Birmingham"
+  },
+  "leeds": {
+    "lat": 53.8,
+    "lon": -1.55,
+    "wikipedia": "Leeds",
+    "city": "Leeds"
+  },
+  "nantes": {
+    "lat": 47.217,
+    "lon": -1.55,
+    "wikipedia": "Nantes",
+    "city": "Nantes"
+  }
+}
